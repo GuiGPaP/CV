@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ASCII CV</title>
+    <title>Your ASCII CV</title>
     <style>
       body {
         font-family: "Courier New", monospace;
@@ -26,11 +26,25 @@
           rgba(255, 255, 255, 0.05) 100%
         );
         text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+        display: inline; /* Make the cursor appear next to the content */
+      }
+      .cursor {
+        animation: blink 1s step-start infinite;
+      }
+      @keyframes blink {
+        from,
+        to {
+          color: transparent;
+        }
+        50% {
+          color: #00ff00;
+        }
       }
     </style>
   </head>
   <body>
     <div id="ascii-content"></div>
+    <span class="cursor">_</span>
     <script src="script.js"></script>
     <script>
       function flicker() {
