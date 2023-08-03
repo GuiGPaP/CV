@@ -11,12 +11,13 @@ MM.    `7MMFMM    MM   MM   MM   MM  ,pm9MM MM    MM   MM    MM    MM 8M""""""  
 
 /¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\
                                                                                                                                                  
-							      	Ingénieur microélectronique, Data-Scientist, Artiste 2D/3D, Maker
-												 +33.6.98.01.90.30
-											   guillaume.parrat@gmail.com
-											    https://bio.link/guigpap
+                               Ingénieur microélectronique, Data-Scientist, Artiste 2D/3D, Maker
+                               +33.6.98.01.90.30
+                               guillaume.parrat@gmail.com
+                               https://bio.link/guigpap
 
 /¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\
+
 
 Partagé entre un esprit scientifique technophile rigoureux et un esprit créatif papillonnant sensible aux problématiques environnementales actuelles, 
 l'élaboration puis la réalisation d'expériences audiovisuelles interactives me passionnent depuis mon plus jeune âge : DJ, VJ (comprenant Vidéo-mapping ou Mapping LED), 
@@ -38,11 +39,10 @@ La crise sanitaire actuelle a été l'élément déclencheur de ma transition en
 voulant allier arts audiovisuels numériques interactifs, data-science et sensibilisation aux enjeux environnementaux.
 
 
-
-
-
 /¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\
-                               Formations --- Expériences Professionnelles --- Expérience personnelle 
+
+                               Formations --- Expérience Professionnelle --- Expérience personnelle 
+
 /¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\
 
 
@@ -73,7 +73,7 @@ Lycée Dumont D’Urville à Toulon |        |      |
  3e année Licence EEA |------------------| 2017 |------------ Premiers pas sous Resolume Arena
          Electronique |                  |      |----- Période d'introspection, recherche musicale / visuelle
      Electrotechnique |                  |      |------ 1er concept de Jukebox intelligent, introduction à l'API Spotify
-          Automatique |			             |      |
+          Automatique |			 |      |
                                          |      |
                                          |      |----------- Expériences interactives sous Kinect / Wiimotes
                                          |      |
