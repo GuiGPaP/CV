@@ -1,10 +1,15 @@
-// Chemin vers votre fichier ASCII
+// Path to your ASCII file
 const asciiFilePath = "CV.txt";
 
-// Fonction pour lire le fichier ASCII et animer le contenu
+// Function to read the ASCII file and animate the content
 function loadAndType() {
   fetch(asciiFilePath)
-    .then((response) => response.text())
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("Network response was not ok");
+      }
+      return response.text();
+    })
     .then((asciiContent) => {
       let i = 0;
 
@@ -13,17 +18,14 @@ function loadAndType() {
           document.getElementById("ascii-content").innerHTML +=
             asciiContent.charAt(i);
           i++;
-          setTimeout(typeWriter, 5); // Vous pouvez ajuster la vitesse de l'animation ici
+          setTimeout(typeWriter, 2); // You can adjust the speed of the animation here
         }
       }
 
       typeWriter();
     })
     .catch((error) => {
-      console.error(
-        "Une erreur est survenue lors de la lecture du fichier ASCII:",
-        error
-      );
+      console.error("An error occurred while reading the ASCII file:", error);
     });
 }
 

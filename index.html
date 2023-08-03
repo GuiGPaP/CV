@@ -3,21 +3,43 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CV Guillaume PARRAT</title>
+    <title>ASCII CV</title>
     <style>
       body {
         font-family: "Courier New", monospace;
-        background-color: #f0f0f0;
-        color: #333;
+        background-color: #000000;
+        color: #00ff00;
+        margin: 0;
+        padding: 20px;
+        overflow-x: hidden;
+        filter: contrast(150%) brightness(90%);
       }
       #ascii-content {
         white-space: pre;
         font-size: 14px;
+        line-height: 1.4;
+        max-width: 100%;
+        background: repeating-linear-gradient(
+          0deg,
+          transparent,
+          transparent 95%,
+          rgba(255, 255, 255, 0.05) 100%
+        );
+        text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
       }
     </style>
   </head>
   <body>
     <div id="ascii-content"></div>
     <script src="script.js"></script>
+    <script>
+      function flicker() {
+        let opacity = Math.random() > 0.95 ? 0.7 : 1;
+        document.getElementById("ascii-content").style.opacity = opacity;
+        setTimeout(flicker, 100); // Adjust timing for desired flicker rate
+      }
+
+      flicker();
+    </script>
   </body>
 </html>
