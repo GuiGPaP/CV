@@ -38,6 +38,8 @@ infantile que des erreurs de fin de vie.
 La crise sanitaire actuelle a été l'élément déclencheur de ma transition en tant qu'artiste audiovisuel, auto-entrepreneur fourmillant d'idées, 
 voulant allier arts audiovisuels numériques interactifs, data-science et sensibilisation aux enjeux environnementaux.
 
+Enfin, j'ai eu l'opportunité de travailler pendant un an au CNAM de Toulon, en tant que formateur de formateurs en technologies immersives, j'ai eu aussi la possibilité d'initier un parcours de formation d'acculturation en intelligence artificielle pour les professeurs, pour démystifier ces algorithmes, ce qui m'a permis de mettre un pied dans le monde de la transmission des connaissances.
+
 
 /¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\
 
@@ -116,15 +118,15 @@ TouchDesigner Operation Foundation  |----|      |
 Certification Exam                  |    |      |--------------- Démarrage au CNAM Toulon en tant que chargé de production de contenus immersifs
 The Interactive & Immersive HQ      |    |      |------ Découverte de DreamBooth pour entrainement de modèles personnalisés Stable Diffusion
                                          |      |
-                                         |      |
-                                         |      |------ Intervenant au Murex Festival : réalisation d'une installation visuelle interactive sous Kinect 2 + scénographie avec lumiéres DMX
+                                         |      |------ Intervenant au Murex Festival : réalisation d'une installation visuelle interactive sous Kinect 2 + scénographie avec lumières DMX
                                          |      |-------- Animation d'acculturations en technologies immersives pour étudiants et professeurs
                                          |      |-- Projet Touchdesigner : animation et contrôle temps réel d'une personne en 3D, issu d'un scan photogramétrique
-                                         | 2023 |----------------- Utilisation d'Unreal Engine 5 pour rendus 360°
+                                         |      |
+                                         | 2023 |----------------- Utilisation d'Unreal Engine 5 pour génération de rendus 360° avec Off World : Live Streaming Toolkit
                                          |      |----- Approfondissement des modules complémentaires de Stable-Diffusion et interactions sous TouchDesigner
                                          |      |------ Initiation aux concepts de base prises de vues 360° (Insta360X3 + Insta360 OneInchEdition RS)
                                          |      |------ Utilisation de Adobe Premiere pour réalisation de vidéos immersives à 360°
-                                         |      |---- POC : Speech2img, un filtre d'image / générateur d'images, basé sur transcription vocale
+                                         |      |---- POC : Speech2img, un filtre / générateur d'images, basé sur transcription vocale
                                          |      |------ POC : GPT-Speak : interaction avec API Chat-GPT 3, basée sur retranscription et synthèse vocale
                                          |      |------- POC : TouchDesigner Enhanced LRC file parser : permet la lecture de sous-titres enrichis
                                          |      |---- Découverte du mapping laser sous TouchDesigner avec Helios DAC
@@ -134,8 +136,9 @@ The Interactive & Immersive HQ      |    |      |------ Découverte de DreamBoot
                                          |      |------ Perfectionnement prompt engineering génératif et conversationnel
                                          |      |--- POC : Communication entre Denon Prime 4, Touchdesigner, et Unreal Engine 5
                                          |      |---- Tests et recherches en IA : réalisation d'une formation de découverte, puis d'approfondissement
+                                         |      |-- POC : Outil d'analyse de speech en VR : ExpressimoVR
                                          |      |------ Mise en place installation technique à Microsoft France pour Mima-Campus  
-
+                                         |      |------- Perfectionnement en IA génératives avec ComfyUI, intégration avec TD  
 
 
 
