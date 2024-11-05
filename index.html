@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ASCII CV - Guig</title>
+    <style>
+        body {
+            font-family: "Courier New", monospace;
+            background-color: #000000;
+            color: #00ff00;
+            margin: 0;
+            padding: 20px;
+            overflow-x: hidden;
+            filter: contrast(150%) brightness(90%);
+        }
+        #ascii-content {
+            white-space: pre;
+            font-size: 14px;
+            line-height: 1.4;
+            max-width: 100%;
+            background: repeating-linear-gradient(
+                0deg,
+                transparent,
+                transparent 95%,
+                rgba(255, 255, 255, 0.05) 100%
+            );
+            text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+        }
+        @keyframes blink {
+            from, to {
+                color: transparent;
+            }
+            50% {
+                color: #00ff00;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="ascii-content"></div>
+    <script>
+        // Path to your ASCII file
+        const asciiFilePath = "CV.txt";
+
+        // Function to read the ASCII file and animate the content
+        function loadAndTypeSections() {
+            fetch(asciiFilePath)
+                .then((response) => {
+                    if (!response.ok) {
+                        throw new Error("Network response was not ok");
+                    }
+                    return response.text();
+                })
+                .then((asciiContent) => {
+                    const asciiElement = document.getElementById("ascii-content");
+
+                    // Split the content into lines
+                    const lines = asciiContent.split('\n');
+                    
+                    // Define sections: first 11 lines, and the rest
+                    const firstSection = lines.slice(0, 11);
+                    const secondSection = lines.slice(11);
+
+                    // Display the first section character by character, line by line
+                    let firstDisplayedContent = firstSection.map(() => "");
+                    let lineIndex = 0;
+                    let charIndex = 0;
+
+                    function typeFirstSection() {
+                        if (lineIndex < firstDisplayedContent.length) {
+                            if (charIndex < firstSection[lineIndex].length) {
+                                firstDisplayedContent[lineIndex] += firstSection[lineIndex].charAt(charIndex);
+                                asciiElement.textContent = firstDisplayedContent.join("\n");
+                                charIndex++;
+                                setTimeout(typeFirstSection, 1); // Speed of typing for the first section
+                            } else {
+                                lineIndex++;
+                                charIndex = 0;
+                                setTimeout(typeFirstSection, 1);
+                            }
+                        } else {
+                            // After first section is complete, start displaying the second section
+                            typeSecondSection();
+                        }
+                    }
+
+                    // Display the second section with each line starting at a random delay
+                    let secondDisplayedContent = secondSection.map(() => "");
+                    function typeSecondSection() {
+                        secondSection.forEach((line, index) => {
+                            // Set a random delay between 1 and 1000 ms for each line
+                            const delay = Math.floor(Math.random() * 1000) + 1;
+
+                            setTimeout(() => {
+                                // Typing effect for each line in the second section
+                                let charIndex = 0;
+                                function typeLine() {
+                                    if (charIndex < line.length) {
+                                        secondDisplayedContent[index] += line.charAt(charIndex);
+                                        asciiElement.textContent = firstDisplayedContent.join("\n") + "\n" + secondDisplayedContent.join("\n");
+                                        charIndex++;
+                                        setTimeout(typeLine, 20); // Speed of typing for characters in each line
+                                    }
+                                }
+                                typeLine();
+                            }, delay);
+                        });
+                    }
+
+                    // Start typing the first section
+                    typeFirstSection();
+
+                    // Flicker effect function
+                    function flicker() {
+                        const opacity = Math.random() > 0.95 ? 0.7 : 1;
+                        asciiElement.style.opacity = opacity;
+                        setTimeout(flicker, 100); // Adjust timing for desired flicker rate
+                    }
+
+                    // Start flicker effect
+                    flicker();
+                })
+                .catch((error) => {
+                    console.error("An error occurred while reading the ASCII file:", error);
+                });
+        }
+
+        loadAndTypeSections();
+    </script>
+</body>
+</html>
