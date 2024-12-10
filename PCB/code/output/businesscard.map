@@ -1,0 +1,547 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(exit.o)
+                              c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o (exit)
+c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+                              main.o (__iob)
+c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+                              main.o (puts_P)
+c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eerd_byte_attiny85.o)
+                              main.o (__eerd_byte_tn85)
+c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eeupd_byte_attiny85.o)
+                              main.o (__eeupd_byte_tn85)
+c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_epilogue.o)
+                              c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o) (__epilogue_restores__)
+c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(exit.o) (_exit)
+c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+usbTxBuf            0xb               usbdrv.o
+usbTxStatus1        0xc               usbdrv.o
+usbDeviceAddr       0x1               usbdrv.o
+usbRxToken          0x1               usbdrv.o
+usbInputBufOffset   0x1               usbdrv.o
+usbMsgPtr           0x2               usbdrv.o
+usbRxLen            0x1               usbdrv.o
+usbNewDeviceAddr    0x1               usbdrv.o
+usbCurrentTok       0x1               usbdrv.o
+usbConfiguration    0x1               usbdrv.o
+usbRxBuf            0x16              usbdrv.o
+__iob               0x6               c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 usbdrv.o
+ .data          0x00000000        0x0 usbdrv.o
+ .bss           0x00000000        0x0 usbdrv.o
+ .data          0x00000000        0x0 usbdrvasm.o
+ .bss           0x00000000        0x0 usbdrvasm.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eerd_byte_attiny85.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eerd_byte_attiny85.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eerd_byte_attiny85.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eeupd_byte_attiny85.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eeupd_byte_attiny85.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eeupd_byte_attiny85.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00002000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o
+LOAD libbusinesscard.a
+LOAD main.o
+LOAD usbdrv.o
+LOAD usbdrvasm.o
+LOAD c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libm.a
+LOAD c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a
+LOAD c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a
+LOAD c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a
+LOAD c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xcd2
+ *(.vectors)
+ .vectors       0x00000000       0x1e c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x0000001e      0x110 main.o
+                0x0000001e                usbDescriptorHidReport
+ .progmem.data  0x0000012e       0x82 usbdrv.o
+                0x0000012e                usbDescriptorString0
+                0x00000132                usbDescriptorStringVendor
+                0x00000158                usbDescriptorStringDevice
+                0x0000017c                usbDescriptorDevice
+                0x0000018e                usbDescriptorConfiguration
+                0x000001b0                . = ALIGN (0x2)
+                0x000001b0                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000001b0        0x0 linker stubs
+ *(.trampolines*)
+                0x000001b0                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000001b0                __ctors_start = .
+ *(.ctors)
+                0x000001b0                __ctors_end = .
+                0x000001b0                __dtors_start = .
+ *(.dtors)
+                0x000001b0                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000001b0        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o
+                0x000001b0                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000001b0        0xc c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000001bc       0x16 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_copy_data.o)
+                0x000001bc                __do_copy_data
+ .init4         0x000001d2       0x10 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_clear_bss.o)
+                0x000001d2                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000001e2        0x4 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o
+ *(.init9)
+ *(.text)
+ .text          0x000001e6        0x2 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o
+                0x000001e6                __vector_12
+                0x000001e6                __bad_interrupt
+                0x000001e6                __vector_6
+                0x000001e6                __vector_3
+                0x000001e6                __vector_11
+                0x000001e6                __vector_13
+                0x000001e6                __vector_7
+                0x000001e6                __vector_5
+                0x000001e6                __vector_4
+                0x000001e6                __vector_9
+                0x000001e6                __vector_2
+                0x000001e6                __vector_8
+                0x000001e6                __vector_14
+                0x000001e6                __vector_10
+ .text          0x000001e8      0x314 usbdrvasm.o
+                0x000001e8                usbCrc16
+                0x00000212                usbCrc16Append
+                0x0000021a                usbMeasureFrameLength
+                0x00000240                __vector_1
+                0x000004fc                . = ALIGN (0x2)
+ *(.text.*)
+ .text.usbFunctionSetup
+                0x000004fc       0x76 main.o
+                0x000004fc                usbFunctionSetup
+ .text.usbFunctionWrite
+                0x00000572       0x22 main.o
+                0x00000572                usbFunctionWrite
+ .text.ASCII_to_keycode
+                0x00000594      0x228 main.o
+                0x00000594                ASCII_to_keycode
+ .text.main     0x000007bc       0x74 main.o
+                0x000007bc                main
+ .text.send_report_once
+                0x00000830       0x14 main.o
+                0x00000830                send_report_once
+ .text.type_out_char
+                0x00000844       0x28 main.o
+                0x00000844                type_out_char
+ .text.usbEventResetReady
+                0x0000086c       0xac main.o
+                0x0000086c                usbEventResetReady
+ .text.usbInit  0x00000918       0x1a usbdrv.o
+                0x00000918                usbInit
+ .text.usbSetInterrupt
+                0x00000932       0x4c usbdrv.o
+                0x00000932                usbSetInterrupt
+ .text.usbPoll  0x0000097e      0x270 usbdrv.o
+                0x0000097e                usbPoll
+ .text.avr-libc
+                0x00000bee        0x4 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(exit.o)
+                0x00000bee                exit
+ .text.avr-libc
+                0x00000bf2       0x72 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+                0x00000bf2                puts_P
+ .text.avr-libc
+                0x00000c64       0x10 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eerd_byte_attiny85.o)
+                0x00000c64                __eerd_byte_tn85
+ .text.avr-libc
+                0x00000c74       0x24 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eeupd_byte_attiny85.o)
+                0x00000c74                __eeupd_byte_tn85
+                0x00000c76                __eeupd_r18_tn85
+ .text.libgcc   0x00000c98       0x36 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_epilogue.o)
+                0x00000c98                __epilogue_restores__
+                0x00000cce                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000cce        0x0 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_exit.o)
+                0x00000cce                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000cce        0x4 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/avr25\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000cd2                _etext = .
+
+.data           0x00800060       0x12 load address 0x00000cd2
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.mystdout
+                0x00800060        0xe main.o
+ .data.idle_rate
+                0x0080006e        0x1 main.o
+ .data.usbTxLen
+                0x0080006f        0x1 usbdrv.o
+                0x0080006f                usbTxLen
+ .data.usbMsgLen
+                0x00800070        0x1 usbdrv.o
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800072                . = ALIGN (0x2)
+ *fill*         0x00800071        0x1 00
+                0x00800072                _edata = .
+                0x00800072                PROVIDE (__data_end, .)
+
+.bss            0x00800072       0x49
+                0x00800072                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.blink_count
+                0x00800072        0x1 main.o
+ .bss.LED_state
+                0x00800073        0x1 main.o
+ .bss.protocol_version
+                0x00800074        0x1 main.o
+ .bss.keyboard_report
+                0x00800075        0x8 main.o
+ .bss.wasReset.1776
+                0x0080007d        0x1 usbdrv.o
+ .bss.usbMsgFlags
+                0x0080007e        0x1 usbdrv.o
+ *(COMMON)
+ COMMON         0x0080007f       0x36 usbdrv.o
+                0x0080007f                usbTxBuf
+                0x0080008a                usbTxStatus1
+                0x00800096                usbDeviceAddr
+                0x00800097                usbRxToken
+                0x00800098                usbInputBufOffset
+                0x00800099                usbMsgPtr
+                0x0080009b                usbRxLen
+                0x0080009c                usbNewDeviceAddr
+                0x0080009d                usbCurrentTok
+                0x0080009e                usbConfiguration
+                0x0080009f                usbRxBuf
+ COMMON         0x008000b5        0x6 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+                0x008000b5                __iob
+                0x008000bb                PROVIDE (__bss_end, .)
+                0x00000cd2                __data_load_start = LOADADDR (.data)
+                0x00000ce4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008000bb        0x0
+                0x008000bb                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008000bb                PROVIDE (__noinit_end, .)
+                0x008000bb                _end = .
+                0x008000bb                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000      0x8a0
+ *(.stab)
+ .stab          0x00000000      0x6cc c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o
+ .stab          0x000006cc       0x30 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(exit.o)
+                                 0x3c (size before relaxing)
+ .stab          0x000006fc       0x90 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eerd_byte_attiny85.o)
+                                 0x9c (size before relaxing)
+ .stab          0x0000078c      0x114 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(eeupd_byte_attiny85.o)
+                                0x120 (size before relaxing)
+
+.stabstr        0x00000000      0x1ac
+ *(.stabstr)
+ .stabstr       0x00000000      0x1ac c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25/crttn85.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xc0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x50 main.o
+ .debug_aranges
+                0x00000050       0x30 usbdrv.o
+ .debug_aranges
+                0x00000080       0x20 usbdrvasm.o
+ .debug_aranges
+                0x000000a0       0x20 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+
+.debug_pubnames
+                0x00000000      0x27c
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0xb3 main.o
+ .debug_pubnames
+                0x000000b3      0x190 usbdrv.o
+ .debug_pubnames
+                0x00000243       0x1c c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+ .debug_pubnames
+                0x0000025f       0x1d c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+
+.debug_info     0x00000000     0x1234
+ *(.debug_info)
+ .debug_info    0x00000000      0x57e main.o
+ .debug_info    0x0000057e      0x895 usbdrv.o
+ .debug_info    0x00000e13      0x102 usbdrvasm.o
+ .debug_info    0x00000f15      0x152 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+ .debug_info    0x00001067      0x1cd c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x74f
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x29a main.o
+ .debug_abbrev  0x0000029a      0x297 usbdrv.o
+ .debug_abbrev  0x00000531       0x14 usbdrvasm.o
+ .debug_abbrev  0x00000545       0xce c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+ .debug_abbrev  0x00000613      0x13c c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+
+.debug_line     0x00000000      0xf76
+ *(.debug_line)
+ .debug_line    0x00000000      0x655 main.o
+ .debug_line    0x00000655      0x4b4 usbdrv.o
+ .debug_line    0x00000b09      0x252 usbdrvasm.o
+ .debug_line    0x00000d5b       0xeb c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+ .debug_line    0x00000e46      0x130 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+
+.debug_frame    0x00000000       0xe0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x80 main.o
+ .debug_frame   0x00000080       0x40 usbdrv.o
+ .debug_frame   0x000000c0       0x20 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+
+.debug_str      0x00000000      0x683
+ *(.debug_str)
+ .debug_str     0x00000000      0x2e5 main.o
+                                0x334 (size before relaxing)
+ .debug_str     0x000002e5      0x2f8 usbdrv.o
+                                0x43d (size before relaxing)
+ .debug_str     0x000005dd       0x4e c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(iob.o)
+                                 0xf2 (size before relaxing)
+ .debug_str     0x0000062b       0x58 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+                                0x117 (size before relaxing)
+
+.debug_loc      0x00000000      0x6ac
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x297 main.o
+ .debug_loc     0x00000297      0x3b7 usbdrv.o
+ .debug_loc     0x0000064e       0x5e c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(businesscard.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x88
+ .debug_ranges  0x00000000       0x48 main.o
+ .debug_ranges  0x00000048       0x28 usbdrv.o
+ .debug_ranges  0x00000070       0x18 c:/program files (x86)/atmel/avr tools/avr toolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr25\libc.a(puts_p.o)

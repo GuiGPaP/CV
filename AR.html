@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+    <script src="https://quadjr.github.io/aframe-gaussian-splatting/index.js"></script>
+    <script src="https://rawgit.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
+    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <style>
+      .nav-bar {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 80px;
+        background: rgba(0, 0, 0, 0.8);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        z-index: 1000;
+      }
+      .nav-item {
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+        border-radius: 10px;
+        transition: transform 0.2s;
+      }
+      .nav-item:active {
+        transform: scale(0.95);
+      }
+    </style>
+  </head>
+  <body style='margin: 0px; overflow: hidden;'>
+    <!-- Scène AR -->
+    <a-scene renderer="antialias: true" embedded arjs='sourceType: webcam;' vr-mode-ui="enabled: false">
+      <a-assets>
+        <a-asset-item id="chip" src="assets/chip.glb"></a-asset-item>
+        <a-asset-item id="pic" src="assets/pic.glb"></a-asset-item>
+        <a-asset-item id="pic6" src="assets/pic6.glb"></a-asset-item>
+        <a-asset-item id="pic18" src="assets/pic18.glb"></a-asset-item>
+        <a-asset-item id="synth" src="assets/synth.glb"></a-asset-item>
+        <a-asset-item id="led" src="assets/led.glb"></a-asset-item>
+        <a-asset-item id="monitor" src="assets/Monitor.glb"></a-asset-item>
+      </a-assets>
+
+      <a-marker type="pattern" preset="custom" url="assets/pattern-logo2.patt" smooth="true">
+        <a-gltf-model 
+          src="#chip" 
+          position="0 0 0" 
+          rotation="0 0 0" 
+          scale="0.1 0.1 0.1">
+        </a-gltf-model>
+        
+        <a-entity animation="property: rotation; to: 0 360 0; loop: true; easing: linear; dur: 4000">
+          <a-gltf-model 
+              src="#led" 
+              position="0.75 1 0" 
+              rotation="0 45 0" 
+              scale="0.05 0.05 0.05">
+          </a-gltf-model>
+        </a-entity>
+
+        <!-- Orbite la plus proche -->
+        <a-entity animation="property: rotation; to: 0 -360 0; loop: true; easing: linear; dur: 7000">
+          <a-gltf-model 
+              src="#pic" 
+              position="1.25 1 0" 
+              rotation="0 45 90" 
+              scale="1 1 1">
+          </a-gltf-model>
+        </a-entity>
+
+        <!-- Deuxième orbite -->
+        <a-entity animation="property: rotation; to: 360 360 0; loop: true; easing: linear; dur: 8000">
+          <a-gltf-model 
+              src="#pic6" 
+              position="1.4 1 0" 
+              rotation="45 90 45" 
+              scale="0.01 0.01 0.01">
+          </a-gltf-model>
+        </a-entity>
+
+        <!-- Troisième orbite -->
+        <a-entity animation="property: rotation; to: 0 360 -360; loop: true; easing: linear; dur: 12000">
+          <a-gltf-model 
+              src="#pic18" 
+              position="1.6 1 0" 
+              rotation="90 45 90" 
+              scale="0.005 0.005 0.005">
+          </a-gltf-model>
+        </a-entity>
+
+        <!-- Quatrième orbite -->
+        <a-entity animation="property: rotation; to: 0 360 -360; loop: true; easing: linear; dur: 20000">
+          <a-gltf-model 
+              src="#monitor" 
+              position="1.75 1 0" 
+              rotation="0 0 0" 
+              scale="0.5 0.5 0.5">
+          </a-gltf-model>
+        </a-entity>
+
+        <!-- Orbite la plus éloignée -->
+        <a-entity animation="property: rotation; to: -360 360 0; loop: true; easing: linear; dur: 24000">
+          <a-gltf-model 
+              src="#synth" 
+              position="2 1 0" 
+              rotation="0 0 0" 
+              scale="0.25 0.25 0.25">
+          </a-gltf-model>
+        </a-entity>
+
+        <a-entity 
+          gaussian_splatting="src: assets/guigz.splat;" 
+          rotation="0 0 0" 
+          position="0 0 0" 
+          scale="1 1 1"
+          animation__float="property: position; from: 0 0.6 0; to: 0 0.8 0; dir: alternate; dur: 2000; easing: easeInOutSine; loop: true">
+        </a-entity>
+      </a-marker>
+
+      <a-entity camera></a-entity>
+    </a-scene>
+
+    <!-- Barre de navigation -->
+    <div class="nav-bar">
+      <img src="assets/cv.png" class="nav-item" onclick="window.location.href='https://guigpap.github.io/CV/index.html'">
+      <img src="assets/mail.png" class="nav-item" onclick="window.location.href='mailto:guillaume.parrat@gmail.com'">
+      <img src="assets/github.png" class="nav-item" onclick="window.location.href='https://github.com/GuiGPaP'">
+      <img src="assets/insta.png" class="nav-item" onclick="window.location.href='https://www.instagram.com/guig_pap/'">
+    </div>
+  </body>
+</html>
