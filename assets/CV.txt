@@ -1,0 +1,297 @@
+                                                                                                                                                    
+                       ,,   ,,   ,,                                                                                                                 
+  .g8"""bgd            db `7MM `7MM                                                `7MM"""Mq.   db     `7MM"""Mq. `7MM"""Mq.       db  MMP""MM""YMM 
+.dP'     `M                 MM   MM                                                  MM   `MM. ;MM:      MM   `MM.  MM   `MM.     ;MM: P'   MM   `7 
+dM'       `7MM  `7MM `7MM   MM   MM  ,6"Yb`7MM  `7MM `7MMpMMMb.pMMMb.  .gP"Ya        MM   ,M9 ,V^MM.     MM   ,M9   MM   ,M9     ,V^MM.     MM      
+MM          MM    MM   MM   MM   MM 8)   MM MM    MM   MM    MM    MM ,M'   Yb       MMmmdM9 ,M  `MM     MMmmdM9    MMmmdM9     ,M  `MM     MM      
+MM.    `7MMFMM    MM   MM   MM   MM  ,pm9MM MM    MM   MM    MM    MM 8M""""""       MM      AbmmmqMA    MM  YM.    MM  YM.     AbmmmqMA    MM      
+`Mb.     MM MM    MM   MM   MM   MM 8M   MM MM    MM   MM    MM    MM YM.    ,       MM     A'     VML   MM   `Mb.  MM   `Mb.  A'     VML   MM      
+  `"bmmmdPY `Mbod"YML.JMML.JMML.JMML`Moo9^Yo`Mbod"YML.JMML  JMML  JMML.`Mbmmd'     .JMML. .AMA.   .AMMA.JMML. .JMM.JMML. .JMM.AMA.   .AMMA.JMML.    
+ 
+
+/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\
+                                                                                                                                                 
+                               Ingénieur microélectronique, Data-Scientist, Artiste 2D/3D, Maker
+                               +33.6.98.01.90.30
+                               guillaume.parrat@gmail.com
+                               https://bio.link/guigpap
+
+/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\
+
+
+Partagé entre un esprit scientifique technophile rigoureux et un esprit créatif papillonnant sensible aux problématiques environnementales actuelles, 
+l'élaboration puis la réalisation d'expériences audiovisuelles interactives me passionnent depuis mon plus jeune âge : DJ, VJ (comprenant Vidéo-mapping ou Mapping LED), 
+laseriste, réalisation d'instruments MIDI custom, ou encore modélisation et impression 3D, réalisation d'environnements virtuels en 3D, art pseudo-figuratif dopé aux 
+intelligences artificielles, ou autres expériences interactives à base de Kinect ou Lidar...
+
+Ma première année en classe préparatoire en MPSI m'a permis de gérer une charge conséquente de travail dans un environnement théorique. 
+J'ai enchainé par un DUT GEII, afin de mettre en pratique mes connaissances théoriques en électronique et informatique sur de nombreux projets de groupe, 
+dont la réalisation puis le contrôle live d’une structure à base de 5000 LEDs individuellement adressables. J'ai effectué mon stage de fin d'année à Kallyste, 
+société spécialisée dans la conception et réparation d’amplificateurs audio HiFi haut de gamme, ce qui m’a permis d’acquérir de solides connaissances aussi bien dans 
+le dépannage que dans la conception de systèmes électroniques. 
+
+Mon cursus scolaire se termine en 2020 à l'issue de trois années d’apprentissage effectuées entre l’école d’ingénieurs de l’INPG Phelma, en cursus Microélectronique 
+et Télécommunications, ainsi que dans la société STMicroelectronics en tant qu’ingénieur Qualité et Fiabilité, où j'ai mis en place une solution logicielle simplifiant 
+l'analyse statistique de lots de puces électroniques à l'issue de tests de vieillissement, permettant de mettre en évidence aussi bien des problèmes de mortalité 
+infantile que des erreurs de fin de vie.
+ 
+La crise sanitaire actuelle a été l'élément déclencheur de ma transition en tant qu'artiste audiovisuel, auto-entrepreneur fourmillant d'idées, 
+voulant allier arts audiovisuels numériques interactifs, data-science et sensibilisation aux enjeux environnementaux.
+
+Enfin, j'ai eu l'opportunité de travailler pendant un an au CNAM de Toulon, en tant que formateur de formateurs en technologies immersives,
+j'ai eu aussi la possibilité d'initier un parcours de formation d'acculturation en intelligence artificielle pour les professeurs, pour démystifier ces algorithmes,
+ce qui m'a permis de mettre un pied dans le monde de la transmission des connaissances.
+
+
+/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\
+
+                               Formations --- Expérience Professionnelle --- Expérience personnelle 
+
+/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\
+
+
+                                         | 2007 |--------------  Premiers pas en tant que DJ
+                                         |      |
+                                         | 2009 |--------- Stage de découverte en entreprise : Restaurant de cuisine moléculaire - l’Aphrodite à Nice
+                                         |      |
+                                         | 2010 |--------------   Débuts sur Live Ableton
+                                         |      |---- Stage de découverte en entreprise : Société d’ergonomie informatique -  Ludotic  à Nice
+                                         |      |---- Association étudiante de sensibilisation aux enjeux environnementaux
+ Baccalauréat Série S mention Bien |-----| 2013 |--------------  Premiers pas en tant que Laseriste ( Pangolin Quickshow )   
+    Spécialité : Physique – Chimie |     |      |  
+             Lycée Sasserno à Nice |     |      |
+                                         |      |
+                                         |      |
+       Première année CGPE MPSI |--------| 2014 |---- TPE : Réalisation d'une serre hydroponique connectée avec asservissement du pH / conductimétrie 
+  Validation et passage en PSI* |        |      |  
+Lycée Dumont D’Urville à Toulon |        |      |  
+                                         |      |------ Mise au point d'interfaces mapping sous TouchOSC pour le contrôle de lasers / Live Ableton
+                                         |      |  
+ 		  DUT GEII  |------------| 2015 |------------ TP : Réalisation d'une maquette pédagogique d'asservissement d'un Moteur Courant Continu 
+          Génie Electrique  |            |      |------- Introduction au vidéo-mapping sous HeavyM + LED Mapping sous Mapio2PRO ( ARTNET DMX ) + Découverte protocole DMX sous FreeStylerDMX
+ Informatique industrielle  |            |      |--------- Introduction aux shaders GLSL sous Magic Music Visuals
+              IUT La Garde  |            |      |------ TPE : Etude, Réalisation, Contrôle live d'un écran composé de 4000 Leds WS2812b pour le Gala de l'ENSAM Aix-en-Provence
+                                         | 2016 |--- Stage d’insertion en entreprise : R&D / Réalisation / Dépannage d’amplificateurs audio HiFi à Kallyste sur La Garde
+                                         |      |------ Introduction au monde des crypto-monnaies / BlockChain
+                                         |      |
+ 3e année Licence EEA |------------------| 2017 |------------ Premiers pas sous Resolume Arena
+         Electronique |                  |      |----- Période d'introspection, recherche musicale / visuelle
+     Electrotechnique |                  |      |------ 1er concept de Jukebox intelligent, introduction à l'API Spotify
+          Automatique |			 |      |
+                                         |      |
+                                         |      |----------- Expériences interactives sous Kinect / Wiimotes
+                                         |      |
+ Ecole d'ingénieur INPG Phelma |---------| 2018 |------ Démarrage de l'alternance avec STMicroelectronics Grenoble en tant qu'Ingénieur Qualité/Fiabilité - Radio-fréquences / Aérospatial
+Micro-électronique et telecoms |         |      |------------ Responsable soirées pré-campagnes étudiantes aux Bureau des Arts : La SOAP
+                                         |      |
+                                         | 2019 |----- Formateur à la Fresque du Climat par le groupe Ingénieurs Engagés
+                                         |      |--- Réalisation d'un outil d'analyse statistique pour surveiller la qualification des lots de pièces: le Drift Analysis Tool
+                                         | 2020 |--- TP : Réalisation / caractérisation de µ-transistors sur une plaquette de silicium
+                                         |      |--- TP : Introduction aux IA en faisant de la reconnaissance de digits (MNIST)
+                                         |      |------- Remise en question du métier d'ingénieur => Reflexions sur un prototype de machine capable de recycler les circuits imprimés
+                                         |      |-- Réparation de tablettes, PC, Smartphones, Electroménager
+                                         |      |
+                                         | 2021 |------- Premiers pas sous Touchdesigner 
+                                         |      |-- Renard'O : Réalisation d'un media-player interactif sous Kinect avec Touchdesigner
+                                         |      |--- Découverte des NFT, découverte de projets blockchain pertinents
+                                         |      |---------- Initiation à l'impression 3D ( Ender 5 )
+                                         |      |------- Premiers pas sous Unreal Engine 4 // Blender
+                                         |      |------ Réalisation d'instruments de musique custom basé sur Arduino : Gant connecté , Piano 360 / Lidar Theremin, Guitar Hero custom
+                                         |      |----- Interactions Kinect entre Touchdesigner et Unreal Engine
+                                         |      |-- Introduction aux réseaux antagonistes génératifs ( VQGAN-CLIP, sous l'outil Visions Of Chaos), et au modèle de langage GPT-2
+                                         |      |
+                                         | 2022 |-------- Video-mapping audio-réactif sous Lightform                                                                                                 
+                                         |      |------------- Approfondissement de l'API Spotify : concept jukebox collaboratif WeZik.AI
+                                         |      |----- Réalisation d'une carte de visite PCB avec ATiny85
+                                         |      |--- Experimentations templates DMX et Production virtuelle sous Unreal
+                                         |      |--------- Introduction aux QR codes à Réalité Augmentée sous AR.js / three.js
+                                         |      |--- Initiation web-scrapping sous Python
+                                         |      |--------- Réalisation de scénographies pour le festival Equinox + les Œnolympiades
+                                         |      |---- Réalisation d'un outil basé sur un Reverse-Engineering du protocole Denon Stagelinq ===> Overlay pour streaming DJ
+                                         |      |-- Introduction au module TriWorks pour intégration Twitch dans UE // Réalisation module Touchdesigner pour intégration Twitch
+                                         |      |-- Initiation à la VR : dessins 3D sous Openbrush / Gravity Sketch
+                     Certification  |----|      |
+           Summer of Unreal Engine  |    |      |
+                                         |      |
+                                         |      |------ Utilisation de l'IA Stable-Diffusion / OpenAI Dall.E 2 ( génération images / vidéo / image inpainting ) / Accès BETA Chat-GPT
+                                         |      |--- Retranscription vocale offine avec vosk sous Python
+                                         |      |---Réalisation d'un looper Live Ableton avec TouchOSC
+TouchDesigner Operation Foundation  |----|      |
+Certification Exam                  |    |      |--------------- Démarrage au CNAM Toulon en tant que chargé de production de contenus immersifs
+The Interactive & Immersive HQ      |    |      |------ Découverte de DreamBooth pour entrainement de modèles personnalisés Stable Diffusion 1.5
+                                         |      |
+                                         |      |------ Intervenant au Murex Festival : réalisation d'une installation visuelle interactive sous Kinect 2 + scénographie avec lumières DMX
+                                         |      |-------- Animation d'acculturations en technologies immersives pour étudiants et professeurs
+                                         |      |-- Projet Touchdesigner : animation et contrôle temps réel d'une personne en 3D, issu d'un scan photogramétrique
+                                         |      |
+                                         | 2023 |----------------- Utilisation d'Unreal Engine 5 pour génération de rendus 360° avec Off World : Live Streaming Toolkit
+                                         |      |----- Approfondissement des modules complémentaires de Stable-Diffusion et interactions sous TouchDesigner
+                                         |      |------ Initiation aux concepts de base prises de vues 360° (Insta360X3 + Insta360 OneInchEdition RS)
+                                         |      |------ Utilisation de Adobe Premiere pour réalisation de vidéos immersives à 360°
+                                         |      |---- POC : Speech2img, un filtre / générateur d'images, basé sur transcription vocale
+                                         |      |------ POC : GPT-Speak : interaction avec API Chat-GPT 3, basée sur retranscription et synthèse vocale
+                                         |      |------- POC : TouchDesigner Enhanced LRC file parser : permet la lecture de sous-titres enrichis
+                                         |      |---- Découverte du mapping laser sous TouchDesigner avec Helios DAC
+                                         |      |---------- Découverte de Midjourney
+                                         |      |-- Réalisation de shaders GLSL interactifs avec Touchdesigner
+                                         |      |--- POC : Réalisation d'un outil de mapping semi-automatique avec Kinect sous TD
+                                         |      |------ Perfectionnement prompt engineering génératif et conversationnel
+                                         |      |--- POC : Communication entre Denon Prime 4, Touchdesigner, et Unreal Engine 5
+                                         |      |---- Tests et recherches en IA : réalisation d'une formation de découverte, puis d'approfondissement
+                                         |      |-- POC : Outil d'analyse de speech en VR : SpeechCraftVR
+                                         |      |------ Mise en place installation technique à Microsoft France pour Mima-Campus  
+                                         |      |------- Perfectionnement en IA génératives avec ComfyUI, intégration avec TD
+                                         |      |------- Utilisation de MediaPipe dans Touchdesigner
+                                         |      |----- Découverte so-vits-svc : logiciel de clonage de voix
+                                         |      |------- POC : RoboBartender
+                                         |      |------- Participation au rapport du Shift-Project - Energie-climat : Mondes virtuels & Réseaux
+                                         |      |------- Amélioration du cours Acculturation IA
+                                         |      |------- Découverte et utilisation de EDGE - Editable Dance Generation from Music
+                                         |      |  
+                                         | 2024 |--------- R&D capteurs biométrique pour la gestion du stress (PPG, EDA)
+                                         |      |------- R&D Mattel Mindflex => capteur EEG
+                                         |      |--------- Découverte et utilisation de StreamDiffusion, co-intégration sous Touchdesigner
+                                         |      |----------- Participation au salon MID3M à Cannes : débats sur l'utilisation de l'IA dans le domaine musical
+                                         |      |--------- Découverte et utilisation de ComfyTextures : plugin UE
+                                         |      |------- POC : Workflow création vidéo 360° en temps réel
+                                         |      |--------- Découverte et utilisation DepthAnything sous TD
+                                         |      |----------- Recherches autour de l'Avatarisation / Photogramétrie : Luma 3D, Scaniverse, in3D, Avaturn 
+                                         |      |------- R&D nouvelles techniques sous ComfyUI : QRMonster + workflow upscaling image 360°
+                                         |      |------- R&D nouvelles techniques vidéo sous ComfyUI : AnimateDiff & IP Adapter
+                                         |      |------- R&D Mattel Mindflex => capteur EEG
+                                         |      |------- Découverte et utilisation de SunoAI : modèle de génération sonore
+                                         |      |----------- Développement modules STT, TTS sous TD
+                                         |      |------- POC : AI Cake Mapping
+                                         |      |------- LED Mapping : création de 20 modules LED à base de WS2812B
+                                         |      |--------- POC : TD_MJ_Dezoom : utilisation des fonctions de dezoom de midjourney, automatisé dans TD
+                                         |      |--------- POC : Tableau magique : un tableau interactif à commande vocale, utilisant un modèle conversationnel, et un modèle génératif
+                                         |      |------- POC : TD_wordclouds : réalisation d'un nuage de mots en temps réel sous TD
+                                         |      |--------- POC : création d'un mixer VJ sous TD, pour LED MAPPING et video projection
+                                         |      |------- POC : img2Tiles
+                                         |      |------- Découverte et utilisation modèle Flux.dev
+                                         |      |----------- Co-animation d'une formation intensive de l'équipe d'enseignants de l'IDEM, une école artistique au Soler : théorie et application de modèles conversationnels et génératifs
+                                         |      |------- POC : lora_guig: entrainement d'un lora Flux.dev basé sur mes images
+                                         |      |------- Découverte et utilisation ComfyUI : Advanced Live Portrait
+                                         |      |------- Découverte et utilisation modèles génératifs vidéo : LumaAI, KlingAI, Gen3
+                                         |      |----------- Réalisation patch ledmapping pour installation artistique sur un piste d'atterrissage
+                                         |      |------- R&D Mattel Mindflex => capteur EEG
+                                         |      |--------- Réalisation cours avancé prompt engineering : CoT, ToT, GoT, + techniques d'attaque et de défense en prompts
+                                         |      |------- Semaine de formation à l'installation et l'utilisation d'un écran LED XR par Neoset
+                                         |      |----- Co-animation conférence IA VarUP : Applications concrètes de l'intelligence artificielle à la vie professionnelle et privée
+                                         |      |------- Découverte et utilisation SegmentAnything2
+                                         |      |------- Amélioration workflow seamless 360° images : ComfyUI
+                                         |      |------- R&D projet WaterScreen : écran tactile interactif sur une surface d'eau opacifiée
+                                         |      |------- POC : Midi Handspinner
+                                         |      |------- POC : Teensy MIDI Strummer
+                                         |      |------- Découverte et utilisation F5TTS
+                                         |      |------- Développement module Yolov5 dans TD
+                                         |      |------- Découverte et utilisation Midjourney retexture mode
+                                         |      |------- Formation / Découverte des modules TD : T3D et RayTK 
+
+
+
+
+
+
+
+
+
+
+
+                  ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+                  ⬜️⬛⬛⬛⬛⬛⬛⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬜️⬛⬛⬜️⬜️⬛⬛⬜️⬛⬛⬜️⬜️⬛⬛⬛⬛⬛⬛⬛⬜️
+                  ⬜️⬛⬜️⬜️⬜️⬜️⬜️⬛⬜️⬛⬜️⬜️⬜️⬜️⬛⬜️⬜️⬜️⬛⬜️⬜️⬜️⬛⬛⬜️⬛⬜️⬛⬜️⬜️⬜️⬜️⬜️⬛⬜️
+                  ⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️⬛⬛⬜️⬜️⬛⬜️⬛⬜️⬛⬜️⬜️⬜️⬜️⬛⬜️⬜️⬛⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️
+                  ⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️⬜️⬜️⬛⬜️⬛⬜️⬜️⬜️⬜️⬜️⬛⬛⬜️⬜️⬛⬜️⬜️⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️
+                  ⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️⬜️⬜️⬛⬛⬛⬜️⬛⬜️⬛⬜️⬛⬛⬜️⬛⬜️⬜️⬛⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️
+                  ⬜️⬛⬜️⬜️⬜️⬜️⬜️⬛⬜️⬛⬛⬜️⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬛⬜️⬛⬜️⬜️⬜️⬜️⬛⬜️⬜️⬜️⬜️⬜️⬛⬜️
+                  ⬜️⬛⬛⬛⬛⬛⬛⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬛⬛⬛⬛⬛⬛⬜️
+                  ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬛⬜️⬛⬛⬜️⬜️⬜️⬛⬜️⬜️⬜️⬜️⬜️⬛⬜️⬜️⬛⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+                  ⬜️⬜️⬜️⬛⬛⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬛⬜️⬜️⬛⬜️⬛⬜️⬜️⬜️⬛⬜️⬜️⬛⬛⬛⬜️⬜️⬛⬛⬛⬜️
+                  ⬜️⬛⬛⬛⬛⬛⬛⬜️⬛⬛⬜️⬜️⬛⬛⬛⬜️⬜️⬜️⬛⬜️⬛⬛⬜️⬜️⬛⬜️⬛⬛⬜️⬜️⬜️⬜️⬜️⬛⬜️
+                  ⬜️⬜️⬛⬜️⬜️⬛⬛⬛⬜️⬜️⬛⬛⬜️⬜️⬜️⬛⬛⬛⬜️⬜️⬛⬛⬜️⬛⬜️⬜️⬜️⬛⬛⬜️⬛⬜️⬜️⬜️⬜️
+                  ⬜️⬛⬜️⬛⬛⬛⬜️⬜️⬜️⬛⬛⬛⬜️⬛⬜️⬛⬜️⬜️⬛⬛⬛⬜️⬜️⬜️⬛⬜️⬛⬜️⬛⬛⬜️⬛⬛⬛⬜️
+                  ⬜️⬜️⬛⬜️⬜️⬜️⬛⬛⬜️⬛⬜️⬛⬛⬜️⬛⬛⬜️⬛⬛⬛⬛⬛⬛⬛⬜️⬛⬛⬜️⬛⬜️⬜️⬜️⬛⬛⬜️
+                  ⬜️⬛⬛⬜️⬛⬜️⬜️⬜️⬛⬛⬛⬛⬜️⬛⬛⬛⬜️⬛⬜️⬛⬜️⬜️⬛⬜️⬛⬜️⬜️⬛⬜️⬛⬛⬜️⬛⬛⬜️
+                  ⬜️⬛⬜️⬜️⬜️⬛⬜️⬛⬜️⬛⬛⬛⬜️⬛⬛⬜️⬜️⬜️⬜️⬛⬜️⬜️⬜️⬜️⬜️⬛⬛⬜️⬛⬛⬜️⬜️⬜️⬜️⬜️
+                  ⬜️⬜️⬜️⬛⬜️⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️⬜️⬛⬜️⬜️⬜️⬜️⬜️⬜️⬛⬛⬛⬜️⬛⬜️⬜️⬛⬛⬜️⬜️⬛⬜️
+                  ⬜️⬜️⬛⬛⬛⬛⬜️⬛⬛⬛⬛⬜️⬛⬛⬛⬜️⬜️⬜️⬛⬛⬜️⬜️⬜️⬜️⬛⬜️⬛⬜️⬜️⬛⬜️⬛⬜️⬛⬜️
+                  ⬜️⬛⬜️⬜️⬛⬛⬜️⬜️⬜️⬜️⬛⬜️⬛⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬛⬛⬜️⬛⬛⬜️⬜️⬛⬜️⬜️⬜️⬛⬜️⬜️⬜️
+                  ⬜️⬛⬛⬛⬛⬜️⬛⬛⬜️⬜️⬛⬛⬛⬜️⬜️⬜️⬛⬜️⬜️⬛⬜️⬜️⬛⬜️⬜️⬛⬜️⬜️⬜️⬛⬜️⬜️⬜️⬜️⬜️
+                  ⬜️⬛⬜️⬜️⬛⬛⬜️⬜️⬜️⬜️⬛⬛⬜️⬜️⬛⬜️⬛⬛⬛⬛⬜️⬜️⬛⬛⬜️⬜️⬛⬜️⬜️⬜️⬜️⬛⬜️⬜️⬜️
+                  ⬜️⬜️⬛⬛⬛⬜️⬜️⬛⬛⬛⬜️⬜️⬜️⬜️⬛⬜️⬜️⬛⬛⬜️⬛⬛⬜️⬛⬜️⬛⬜️⬜️⬛⬛⬜️⬜️⬜️⬜️⬜️
+                  ⬜️⬛⬛⬛⬛⬜️⬜️⬜️⬛⬛⬜️⬛⬛⬛⬛⬛⬛⬜️⬜️⬜️⬛⬛⬛⬜️⬜️⬜️⬛⬜️⬜️⬜️⬛⬜️⬜️⬛⬜️
+                  ⬜️⬛⬜️⬜️⬛⬜️⬜️⬛⬜️⬛⬛⬜️⬛⬛⬜️⬛⬛⬛⬜️⬛⬛⬜️⬛⬜️⬛⬛⬛⬜️⬛⬛⬛⬜️⬛⬜️⬜️
+                  ⬜️⬛⬜️⬜️⬛⬛⬛⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️⬜️⬛⬜️⬜️⬜️⬛⬛⬛⬛⬜️⬜️⬜️⬛⬜️⬛⬛⬜️⬛⬜️
+                  ⬜️⬛⬜️⬛⬛⬜️⬛⬛⬜️⬛⬛⬛⬜️⬜️⬛⬛⬜️⬜️⬛⬛⬛⬛⬜️⬛⬛⬛⬛⬛⬛⬛⬜️⬜️⬛⬛⬜️
+                  ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬛⬜️⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬛⬛⬜️⬛⬛⬜️⬛⬜️⬜️⬜️⬛⬛⬜️⬜️⬛⬜️
+                  ⬜️⬛⬛⬛⬛⬛⬛⬛⬜️⬜️⬛⬛⬜️⬛⬜️⬜️⬜️⬜️⬛⬛⬜️⬛⬛⬜️⬛⬛⬜️⬛⬜️⬛⬛⬜️⬜️⬜️⬜️
+                  ⬜️⬛⬜️⬜️⬜️⬜️⬜️⬛⬜️⬜️⬜️⬛⬛⬜️⬜️⬜️⬛⬛⬛⬜️⬛⬛⬛⬛⬛⬛⬜️⬜️⬜️⬛⬛⬛⬜️⬛⬜️
+                  ⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬛⬛⬛⬛⬛⬜️⬛⬛⬜️⬜️⬛⬛⬛⬛⬛⬜️⬜️⬜️⬛⬜️
+                  ⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️⬛⬛⬛⬛⬛⬛⬛⬜️⬜️⬜️⬛⬛⬜️⬛⬛⬛⬛⬛⬜️⬛⬛⬜️⬛⬛⬜️⬜️
+                  ⬜️⬛⬜️⬛⬛⬛⬜️⬛⬜️⬛⬜️⬛⬜️⬜️⬛⬜️⬛⬜️⬛⬛⬜️⬜️⬜️⬛⬜️⬜️⬛⬛⬜️⬜️⬛⬛⬜️⬜️⬜️
+                  ⬜️⬛⬜️⬜️⬜️⬜️⬜️⬛⬜️⬜️⬜️⬜️⬛⬜️⬛⬛⬜️⬜️⬜️⬜️⬜️⬛⬜️⬛⬜️⬜️⬛⬛⬛⬜️⬜️⬛⬜️⬜️⬜️
+                  ⬜️⬛⬛⬛⬛⬛⬛⬛⬜️⬜️⬛⬛⬜️⬜️⬜️⬛⬜️⬜️⬛⬜️⬜️⬜️⬜️⬜️⬜️⬛⬛⬛⬛⬜️⬛⬛⬛⬜️⬜️
+                  ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
+
+
+
+
+                                                                    /&@#((((@(                                                             
+                                                    @@&#((#&@%  @&(((((((((((((#@                                                          
+                                    &@@&%@@     @#(((((((((((@(@((((((((((((((((%%                                                        
+                                &&(((((((((((@.#((((((((((((&(((#%((((((((((((((@@#((((((@                                                
+                              @(((((((((((((((@(((((((((((((&((((@((((((((((((%((@(((((((((@                                              
+                              @((((((((((((((((((((((((((((((&&((#%(((((((((((((#(((((((((((& /(&#*                                        
+                            @(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((@((@(((((((((&%                                   
+                        #&&&&&((((((((((((((((((((((((((((((((((((((((((((((((((((((((@(((@((((((((((((&                                  
+                    @(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((#&&#((((((((((((((&                                 
+                  @(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((&                                 
+                .((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((@                                  
+                #((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((%#((((((@,                           
+                @(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((@                          
+                @(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((@                          
+                @#(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((@#                          
+            @@##@#(((@@(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((#%%((@                            
+        (%(((((###@@((%@(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((@#(((%@#(@                           
+      @((((((((((#####(((((((((((((((((((((((((((((((((((((((((((((((#@&@((((((((((((((((((((((((((((((((((((((@                          
+      @(((((((((((((((((((((((((((((((((((((((((((((((((@((@(((((((((#&((&((((((((((((((((((((((((((((((((((((((%                          
+    #((((((((((((((((((((((((((((((((((((((((((((((((((&(((%(((((((((@(@#((((((((#&((((((@(((((((((@#((((((((((@                          
+    @(((((((((((((((((((((((((((((((((((((((((((((((((((%@##((((((((#&@@((((((((&&&(((((%@((((((((@@#@@@#((((@                            
+    @((((((((((((((((((((((((((((((((((((((((((((((((((((((@@@@@@&@**,****/#&#***.**&@#***@@@@@%@*@((((((@                                
+      @((((((((((((((((((((((((((((((((((((((((((((((((((((&*,,**,..........@@@%............*****#*.@((((#%                                
+      &(((((((((((((((((((((((((((((((((((((@#@#(((((((((&**...........*@@@&**@@@............@@@#*(@@@@.                                  
+        @((((((((((((((((((((((((((((((((((((@&((&(((((@@**...........@@@*.............................                                    
+        .@@##@&(((((((((((((((((((((((((((((((((((%*****,..........@@#........,%.#@...............,&(@@&&&&@                               
+      @###(((((((((((((((((((((((((((((((((((((((&*................................###@@@/.#@&&&&&&@@&//&&@                               
+      %######((((((((((((((((((((((((((((((((((((@*....................../##&%&&&&&&&&&&&&@@@@&&#/,..*(#*#&@                               
+      /##############(((((((((((((((((((((((((((@*................%@&&&@&&&&@&,,,.,,,,(@&@....@&%.,,/#%#/@&#                               
+      @############((((((((((((((((((((((((((&%,...........#@&&&&&&&&&&&&&@##,.//,,,,*@&@....@&%,,/,#.((&&(                               
+        &############(((((((((#(((((((((##((((@,......#@&&&&&&&&&@@&*....&&@######...///@&*...%@@,,/,#(/@&@.                               
+        @#############(((((((#################&@@&&&&&&&@@&..............&@*,########..&&/....@@(,/,##@&&#&                               
+            @@@@######################&@#....%@@&&&*....................../&@*,,*####..&&@.....,&&#**%@&@*.#                               
+            %########################@.....@@*..*@,........................@&@,,,,,,##/&&,.......,@@@@&...&@%                              
+            @########################@../@(**.....,,........................@&@###,,,/&@..............&%...*@.                             
+            @#######################@..@@@#..................................&&&%&&&&,..........*@@....*@@@                               
+              @##########@##@########@/.%@***@%.......(.............................................*@@@,.(                                
+                @@#####%%@@###########%&,.@*..*@.....&...(.........,.,.............................**....#%                                
+                      @#################@*,............&&..#......(...*.(....@.*./............./..,@.&.*#                                 
+                      .@####################@@@@@,.........*.../..#.@.....@%(.....,#(..(.&.@.,.#..@....@                                  
+                        @%#######################@......,@./%...........@@ @....#//........,**#&&....#.@                                   
+                          @#####################@.....#.......(....@.@,  @,....#............,..#.%...%                                     
+                            @@########@@######@(........./.@....&....@ @.........&..#.@.(.(.,....,@.&                                      
+                                  @%%%%%&@@@%#&..............*./.......,./....@.,....*.,..,..#.(..@                                        
+                                  @&%%%%%%%%@%@........../.@%@#*@,.....%...*....,........&..,*&,                                          
+                                    *@%%%%%%%%%@%@(...........,**(@@@*%#***,.......#,**/*/*&# .,,/*#/                                      
+                                      @%%%%%%%%%%%@%&@...........,******%@@@@@@&&&@@@&&%%%@@%%%%%%%%@@%%@                                  
+                                        %%%%%%%%%%%%%%#%@,.........,,*****@%  %@&%%%%%%%@%%%%%%%%%%%%%%@%%@                                
+                                          *&%%%%%%%%%%%%%@%#@ #@&%%%%%%%#%@@%    @@%%%%@%%%%%%%%%%%%%%%%@%%@                               
+                                            &%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%#%%#    %@&%%%%%%%%%%#%%%%%%@#%&                               
+                                                #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%@     &%%%%%%%%%%%%%%%%%@#%@                               
+                                                    @&%%%%%&%%%%%%%%%%%%%%%%%%%%%@    %%%%#%%%%%%%&%%#%%&%%/                               
+                                                        (@%%%%%%%%%%%%%%%%%%%%@%@   /%%%%%%%#%%#%%#%%%@%%/                                
+                                                          /%%%%%%%%%%%%%%%%%%%%%%@     @%%%%%&%%%%@%&%@&%&                                 
+                                                          &%%%%%%%%%%%%%%%%%%@%&        @&%%%%%%%%%&@%*                                   
+                                                            %&%%%%%%%%%%%%%%%@%%@                                                         
+                                                              @@%%%%%%%%&@@%@@                                                            
