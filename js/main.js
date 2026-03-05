@@ -436,4 +436,53 @@
                     closeNvim();
                 }
             });
+
+            // Easter egg: STATUS: ONLINE reboot
+            var statusOnline = document.getElementById('status-online');
+            var rebootMsg = document.getElementById('reboot-msg');
+            var rebootMsgText = document.getElementById('reboot-msg-text');
+            var crtShutdown = document.getElementById('crt-shutdown');
+
+            var rebootLines = [
+                '> CRITICAL: UNAUTHORIZED ACCESS DETECTED',
+                '> TRACE: 0xDEAD 0xBEEF 0xCAFE',
+                '> INITIATING EMERGENCY REBOOT...',
+                '> sudo kill -9 $(pidof reality)'
+            ];
+
+            function typeRebootLine(el, lines, lineIdx, charIdx) {
+                if (lineIdx >= lines.length) {
+                    setTimeout(function() {
+                        rebootMsgText.style.display = 'none';
+                        rebootMsg.style.background = '#000';
+                        crtShutdown.classList.add('active');
+                        setTimeout(function() {
+                            localStorage.removeItem('bootAnimSeen');
+                            location.reload();
+                        }, 600);
+                    }, 400);
+                    return;
+                }
+                if (charIdx === 0 && lineIdx > 0) el.textContent += '\n';
+                if (charIdx < lines[lineIdx].length) {
+                    el.textContent += lines[lineIdx][charIdx];
+                    setTimeout(function() {
+                        typeRebootLine(el, lines, lineIdx, charIdx + 1);
+                    }, 30);
+                } else {
+                    setTimeout(function() {
+                        typeRebootLine(el, lines, lineIdx + 1, 0);
+                    }, 200);
+                }
+            }
+
+            statusOnline.addEventListener('click', function() {
+                rebootMsgText.textContent = '';
+                rebootMsgText.style.display = '';
+                rebootMsg.style.background = '';
+                rebootMsg.classList.add('active');
+                setTimeout(function() {
+                    typeRebootLine(rebootMsgText, rebootLines, 0, 0);
+                }, 100);
+            });
         });
