@@ -1,0 +1,1 @@
+const c={BOOT_READY:"cv:boot-ready",CONTACT_REQUEST:"cv:contact-request",CONTACT_OPEN:"cv:contact-open",CONTACT_CLOSE:"cv:contact-close",AI_MODAL_OPEN:"cv:ai-modal-open"};function e(t){document.dispatchEvent(new CustomEvent(t))}function o(t,n){return document.addEventListener(t,n),()=>document.removeEventListener(t,n)}export{c as C,e as d,o};

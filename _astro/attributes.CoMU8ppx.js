@@ -1,0 +1,1 @@
+function v(f,i,a){var r=f==null?"":""+f;return r===""?null:r}function n(f,i=!1){var a=i?" !important;":";",r="";for(var u of Object.keys(f)){var c=f[u];c!=null&&c!==""&&(r+=" "+u+": "+c+a)}return r}function o(f,i){if(i){var a="",r,u;return Array.isArray(i)?(r=i[0],u=i[1]):r=i,r&&(a+=n(r)),u&&(a+=n(u,!0)),a=a.trim(),a===""?null:a}return String(f)}export{o as a,v as t};
