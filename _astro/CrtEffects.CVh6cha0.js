@@ -1,1 +1,0 @@
-import"./disclose-version.DsnmJJEf.js";import"./legacy.DNd6ArHD.js";import{a as r,f as s,n as e}from"./template.BYy8BGkP.js";/* empty css                       */var o=s('<div class="crt-overlay svelte-zpxj8t"></div> <div class="scanlines svelte-zpxj8t"></div>',1);function l(t){var a=o();e(2),r(t,a)}export{l as default};
