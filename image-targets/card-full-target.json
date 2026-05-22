@@ -1,0 +1,23 @@
+{
+  "imagePath": "/CV/image-targets/card-full-target_luminance.png",
+  "metadata": null,
+  "name": "card-full-target",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 236,
+    "width": 1132,
+    "height": 1509,
+    "isRotated": true,
+    "originalWidth": 1132,
+    "originalHeight": 1980
+  },
+  "resources": {
+    "originalImage": "card-full-target_original.png",
+    "croppedImage": "card-full-target_cropped.png",
+    "thumbnailImage": "card-full-target_thumbnail.png",
+    "luminanceImage": "card-full-target_luminance.png"
+  },
+  "created": 1779446007705,
+  "updated": 1779446007705
+}

@@ -1,0 +1,23 @@
+{
+  "imagePath": "/CV/image-targets/logo-target/logo-target_luminance.png",
+  "metadata": null,
+  "name": "logo-target",
+  "type": "PLANAR",
+  "properties": {
+    "left": 80,
+    "top": 0,
+    "width": 480,
+    "height": 640,
+    "isRotated": true,
+    "originalWidth": 640,
+    "originalHeight": 640
+  },
+  "resources": {
+    "originalImage": "logo-target_original.png",
+    "croppedImage": "logo-target_cropped.png",
+    "thumbnailImage": "logo-target_thumbnail.png",
+    "luminanceImage": "logo-target_luminance.png"
+  },
+  "created": 1779442071277,
+  "updated": 1779442071277
+}

@@ -1,0 +1,23 @@
+{
+  "imagePath": "/CV/image-targets/card-mire-tight-target/card-mire-tight-target_luminance.png",
+  "metadata": null,
+  "name": "card-mire-tight-target",
+  "type": "PLANAR",
+  "properties": {
+    "top": 1130,
+    "left": 302,
+    "width": 525,
+    "height": 700,
+    "isRotated": true,
+    "originalWidth": 1132,
+    "originalHeight": 1980
+  },
+  "resources": {
+    "originalImage": "card-mire-tight-target_original.png",
+    "croppedImage": "card-mire-tight-target_cropped.png",
+    "thumbnailImage": "card-mire-tight-target_thumbnail.png",
+    "luminanceImage": "card-mire-tight-target_luminance.png"
+  },
+  "created": 1779444333455,
+  "updated": 1779444333455
+}
